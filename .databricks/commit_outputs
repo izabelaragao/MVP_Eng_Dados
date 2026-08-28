@@ -1,7 +1,13 @@
+
 # O arquivo .databricks/commit_outputs é usado para controlar se a saída de um notebook deve ser incluída ao confirmar as alterações no Git.
-#
+# As Saídas são incluídas/excluídas em nível de notebook; não é possível confirmar saídas específicas de um notebook em particular.
+# 
 # Referência:
 # Cada linha em .databricks/commit_outputs representa um padrão glob.
 # A linha que começa com # representa um comentário.
+# O notebook que corresponder a um padrão glob terá a saída incluída
+# A linha que comecar com ! representa um padrão de exclusão (ou seja, !folder_a/\* excluirá a saída de todos os notebooks na pasta folder_a)
+# Se o caminho de um notebook corresponder a vários padrões glob, o último padrão glob correspondente será usado.
+# observe que os padões glob diferenciam maiúsculas de minúsculas
 
 MVP -Engenharia de Dados.ipynb
