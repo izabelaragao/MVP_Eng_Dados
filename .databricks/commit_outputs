@@ -1,6 +1,6 @@
 
 # O arquivo .databricks/commit_outputs é usado para controlar se a saída de um notebook deve ser incluída ao confirmar as alterações no Git.
-# As Saídas são incluídas/excluídas em nível de notebook; não é possível confirmar saídas específicas de um notebook em particular.
+# As saídas são incluídas/excluídas em nível de notebook; não é possível confirmar saídas específicas de um notebook em particular.
 # 
 # Referência:
 # Cada linha em .databricks/commit_outputs representa um padrão glob.
