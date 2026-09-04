@@ -4,7 +4,7 @@ Este projeto apresenta um pipeline completo de Engenharia de Dados utilizando Da
 Como o trabalho
 O projeto completo com explicação, códigos e gráficos está disponível no link abaixo:
 
-[Ver o Notebook do Projeto](./MVP_Engenharia_de_Dados.ipynb)
+[Ver o Notebook do Projeto](MVP_Engenharia_de_Dados.ipynb)
 
 Basta analisar e validar o arquivo em sequência.
 
