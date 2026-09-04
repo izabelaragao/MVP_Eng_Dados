@@ -19,6 +19,9 @@ A saída encontra-se no caminho [./.databricks/](./.databricks/)
 Resumo
 
 Fonte: Portal da Transparência do Governo Federal.
+
 Tecnologias: PySpark, SQL, Unity Catalog, Python.
+
 Modelo de Dados: Modelo Estrela
+
 Camadas: Bronze, Prata, Ouro.
