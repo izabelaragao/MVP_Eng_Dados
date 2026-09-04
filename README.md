@@ -12,9 +12,10 @@ Se for necessário, clone este repositório pela url https://github.com/izabelar
 
 Caso não consiga visualizar o .ipynb, na raiz do projeto está disponível a versão em html (HTML_MVP.html)
 
-As imagens utilizadas estão no caminho ./images/
+As imagens utilizadas estão no caminho [./imagens/](./imagens/)
 
-A saída encontra-se no caminho (./databricks/)
+A saída encontra-se no caminho [./.databricks/](./.databricks/)
+
 Resumo
 Fonte: Portal da Transparência do Governo Federal.
 Tecnologias: PySpark, SQL, Unity Catalog, Python.
