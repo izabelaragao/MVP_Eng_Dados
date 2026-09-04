@@ -10,7 +10,7 @@ Basta analisar e validar o arquivo em sequência.
 
 Se for necessário, clone este repositório pela url https://github.com/izabelaragao/MVP_Eng_Dados/new/main na sua máquina local.
 
-Caso não consiga visualizar o .ipynb, na raiz do projeto está disponível a versão em html (HTML_MVP.html)
+Caso não consiga visualizar o .ipynb, na raiz do projeto está disponível a versão em html ([HTML_MVP.html](./MVP%20-Engenharia%20de%20Dados.html))
 
 As imagens utilizadas estão no caminho [./imagens/](./imagens/)
 
